@@ -1,3 +1,6 @@
 [submodule "Labs/lab-python-data-structures"]
 	path = Labs/lab-python-data-structures
 	url = https://github.com/jipijipi/lab-python-data-structures.git
+[submodule "Lessons"]
+	path = Lessons
+	url = https://github.com/jipijipi/ih-lessons.git
