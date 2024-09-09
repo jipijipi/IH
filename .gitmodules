@@ -1,0 +1,3 @@
+[submodule "Labs/lab-python-data-structures"]
+	path = Labs/lab-python-data-structures
+	url = https://github.com/jipijipi/lab-python-data-structures.git
