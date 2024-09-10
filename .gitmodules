@@ -4,3 +4,6 @@
 [submodule "Lessons"]
 	path = Lessons
 	url = https://github.com/jipijipi/ih-lessons.git
+[submodule "Labs/lab-python-flow-control"]
+	path = Labs/lab-python-flow-control
+	url = https://github.com/data-bootcamp-v4/lab-python-flow-control.git
