@@ -13,3 +13,6 @@
 [submodule "Labs/lab-python-control-flow"]
 	path = Labs/lab-python-control-flow
 	url = https://github.com/jipijipi/lab-python-flow-control.git
+[submodule "Labs/lab-python-functions"]
+	path = Labs/lab-python-functions
+	url = https://github.com/jipijipi/lab-python-functions.git
