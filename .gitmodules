@@ -7,3 +7,9 @@
 [submodule "Labs/lab-python-flow-control"]
 	path = Labs/lab-python-flow-control
 	url = https://github.com/data-bootcamp-v4/lab-python-flow-control.git
+[submodule "Labs/--force"]
+	path = Labs/--force
+	url = https://github.com/jipijipi/lab-python-flow-control.git
+[submodule "Labs/lab-python-control-flow"]
+	path = Labs/lab-python-control-flow
+	url = https://github.com/jipijipi/lab-python-flow-control.git
