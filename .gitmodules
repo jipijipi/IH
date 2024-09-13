@@ -22,3 +22,15 @@
 [submodule "Labs/lab-python-error-handling"]
 	path = Labs/lab-python-error-handling
 	url = https://github.com/jipijipi/lab-python-error-handling.git
+[submodule "Labs/lab-python-data-types-extra"]
+	path = Labs/lab-python-data-types-extra
+	url = https://github.com/jipijipi/lab-python-data-types-extra.git
+[submodule "Labs/lab-python-data-structures-extra"]
+	path = Labs/lab-python-data-structures-extra
+	url = https://github.com/jipijipi/lab-python-data-structures-extra.git
+[submodule "Labs/lab-python-flow-control-extra"]
+	path = Labs/lab-python-flow-control-extra
+	url = https://github.com/jipijipi/lab-python-flow-control-extra.git
+[submodule "Labs/lab-python-functions-extra"]
+	path = Labs/lab-python-functions-extra
+	url = https://github.com/jipijipi/lab-python-functions-extra.git
