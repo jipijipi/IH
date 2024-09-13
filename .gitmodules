@@ -19,3 +19,6 @@
 [submodule "Labs/lab-python-list-dict-set-comprehension"]
 	path = Labs/lab-python-list-dict-set-comprehension
 	url = https://github.com/jipijipi/lab-python-list-dict-set-comprehension.git
+[submodule "Labs/lab-python-error-handling"]
+	path = Labs/lab-python-error-handling
+	url = https://github.com/jipijipi/lab-python-error-handling.git
