@@ -34,3 +34,6 @@
 [submodule "Labs/lab-python-functions-extra"]
 	path = Labs/lab-python-functions-extra
 	url = https://github.com/jipijipi/lab-python-functions-extra.git
+[submodule "Labs/lab-python-list-dict-set-comprehension-extra"]
+	path = Labs/lab-python-list-dict-set-comprehension-extra
+	url = https://github.com/jipijipi/lab-python-list-dict-set-comprehension-extra.git
