@@ -37,3 +37,9 @@
 [submodule "Labs/lab-python-list-dict-set-comprehension-extra"]
 	path = Labs/lab-python-list-dict-set-comprehension-extra
 	url = https://github.com/jipijipi/lab-python-list-dict-set-comprehension-extra.git
+[submodule "Labs/lab-python-lambda-map-reduce-filter"]
+	path = Labs/lab-python-lambda-map-reduce-filter
+	url = https://github.com/jipijipi/lab-python-lambda-map-reduce-filter.git
+[submodule "Labs/lab-python-oop"]
+	path = Labs/lab-python-oop
+	url = https://github.com/jipijipi/lab-python-oop.git
