@@ -43,3 +43,6 @@
 [submodule "Labs/lab-python-oop"]
 	path = Labs/lab-python-oop
 	url = https://github.com/jipijipi/lab-python-oop.git
+[submodule "Labs/lab-python-error-handling-extra"]
+	path = Labs/lab-python-error-handling-extra
+	url = https://github.com/jipijipi/lab-python-error-handling-extra.git
