@@ -49,3 +49,6 @@
 [submodule "Quests/Shark-Quest"]
 	path = Quests/Shark-Quest
 	url = https://github.com/jipijipi/Shark-Quest.git
+[submodule "Labs/lab-dw-pandas"]
+	path = Labs/lab-dw-pandas
+	url = https://github.com/jipijipi/lab-dw-pandas.git
