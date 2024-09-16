@@ -46,3 +46,6 @@
 [submodule "Labs/lab-python-error-handling-extra"]
 	path = Labs/lab-python-error-handling-extra
 	url = https://github.com/jipijipi/lab-python-error-handling-extra.git
+[submodule "Quests/Shark-Quest"]
+	path = Quests/Shark-Quest
+	url = https://github.com/jipijipi/Shark-Quest.git
