@@ -52,3 +52,18 @@
 [submodule "Labs/lab-dw-pandas"]
 	path = Labs/lab-dw-pandas
 	url = https://github.com/jipijipi/lab-dw-pandas.git
+[submodule "Labs/lab-dw-data-cleaning-and-formatting"]
+	path = Labs/lab-dw-data-cleaning-and-formatting
+	url = https://github.com/jipijipi/lab-dw-data-cleaning-and-formatting.git
+[submodule "Labs/lab-dw-data-structuring-and-combining"]
+	path = Labs/lab-dw-data-structuring-and-combining
+	url = https://github.com/jipijipi/lab-dw-data-structuring-and-combining.git
+[submodule "Labs/lab-dw-data-aggregation-and-filtering"]
+	path = Labs/lab-dw-data-aggregation-and-filtering
+	url = https://github.com/jipijipi/lab-dw-data-aggregation-and-filtering.git
+[submodule "Labs/lab-apis"]
+	path = Labs/lab-apis
+	url = https://github.com/jipijipi/lab-apis.git
+[submodule "Labs/lab-web-scraping"]
+	path = Labs/lab-web-scraping
+	url = https://github.com/jipijipi/lab-web-scraping.git
