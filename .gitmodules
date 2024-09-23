@@ -67,3 +67,6 @@
 [submodule "Labs/lab-web-scraping"]
 	path = Labs/lab-web-scraping
 	url = https://github.com/jipijipi/lab-web-scraping.git
+[submodule "Quests/IH-API-Project"]
+	path = Quests/IH-API-Project
+	url = https://github.com/jipijipi/IH-API-Project.git
