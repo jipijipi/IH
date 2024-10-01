@@ -70,3 +70,9 @@
 [submodule "Quests/IH-API-Project"]
 	path = Quests/IH-API-Project
 	url = https://github.com/jipijipi/IH-API-Project.git
+[submodule "Labs/lab-sql-mysql-db-creation"]
+	path = Labs/lab-sql-mysql-db-creation
+	url = https://github.com/jipijipi/lab-sql-mysql-db-creation.git
+[submodule "Quests/sql-database"]
+	path = Quests/sql-database
+	url = https://github.com/jipijipi/sql-database.git
