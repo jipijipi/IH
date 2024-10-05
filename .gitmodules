@@ -88,3 +88,9 @@
 [submodule "Labs/lab-sql-subqueries"]
 	path = Labs/lab-sql-subqueries
 	url = https://github.com/jipijipi/lab-sql-subqueries.git
+[submodule "Labs/lab-sql-temp-tables-views-ctes"]
+	path = Labs/lab-sql-temp-tables-views-ctes
+	url = https://github.com/jipijipi/lab-sql-temp-tables-views-ctes.git
+[submodule "Labs/lab-sql-python-connection"]
+	path = Labs/lab-sql-python-connection
+	url = https://github.com/jipijipi/lab-sql-python-connection.git
