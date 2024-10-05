@@ -76,3 +76,9 @@
 [submodule "Quests/sql-database"]
 	path = Quests/sql-database
 	url = https://github.com/jipijipi/sql-database.git
+[submodule "Labs/lab-sql-basic-queries"]
+	path = Labs/lab-sql-basic-queries
+	url = https://github.com/jipijipi/lab-sql-basic-queries.git
+[submodule "Labs/lab-sql-aggregation-and-transformation"]
+	path = Labs/lab-sql-aggregation-and-transformation
+	url = https://github.com/jipijipi/lab-sql-aggregation-and-transformation.git
