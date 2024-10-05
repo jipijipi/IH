@@ -82,3 +82,9 @@
 [submodule "Labs/lab-sql-aggregation-and-transformation"]
 	path = Labs/lab-sql-aggregation-and-transformation
 	url = https://github.com/jipijipi/lab-sql-aggregation-and-transformation.git
+[submodule "Labs/lab-sql-joins"]
+	path = Labs/lab-sql-joins
+	url = https://github.com/jipijipi/lab-sql-joins.git
+[submodule "Labs/lab-sql-subqueries"]
+	path = Labs/lab-sql-subqueries
+	url = https://github.com/jipijipi/lab-sql-subqueries.git
