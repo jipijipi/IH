@@ -1,0 +1,391 @@
+{
+    "rooms": [
+      {
+        "name": "Kitchen",
+        "children": [
+          {
+            "name": "Cooking Tools",
+            "children": [
+              {
+                "name": "Preparation Tools",
+                "items": [
+                  "Chef's knife",
+                  "Paring knife",
+                  "Bread knife"
+                ]
+              },
+              {
+                "name": "Cooking Implements",
+                "items": [
+                  "Wooden spoon",
+                  "Slotted spoon"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Baking Supplies",
+            "children": [
+              {
+                "name": "Tools",
+                "items": [
+                  "Measuring Cups",
+                  "Sifters"
+                ]
+              },
+              {
+                "name": "Decoration",
+                "items": [
+                  "Piping Bags",
+                  "Icing Tips"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Utensils",
+            "children": [
+              {
+                "name": "Eating Utensils",
+                "items": [
+                  "Forks",
+                  "Knives",
+                  "Spoons"
+                ]
+              },
+              {
+                "name": "Serving Utensils",
+                "items": [
+                  "Tongs",
+                  "Ladles"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gadgets",
+            "children": [
+              {
+                "name": "Manual Gadgets",
+                "items": [
+                  "Can Openers",
+                  "Peelers"
+                ]
+              },
+              {
+                "name": "Electric Gadgets",
+                "items": [
+                  "Mixers",
+                  "Scales"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pantry",
+        "children": [
+          {
+            "name": "Spices",
+            "children": [
+              {
+                "name": "Whole Spices",
+                "items": [
+                  "Coriander seeds",
+                  "Cardamom pods"
+                ]
+              },
+              {
+                "name": "Ground Spices",
+                "items": [
+                  "Curry powder",
+                  "Cumin powder"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Dry Goods",
+            "children": [
+              {
+                "name": "Grains",
+                "items": [
+                  "Rice",
+                  "Quinoa"
+                ]
+              },
+              {
+                "name": "Pulses",
+                "items": [
+                  "Lentils",
+                  "Beans"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Snacks",
+            "children": [
+              {
+                "name": "Savory",
+                "items": [
+                  "Chips",
+                  "Crackers"
+                ]
+              },
+              {
+                "name": "Sweet",
+                "items": [
+                  "Cookies",
+                  "Bars"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Office",
+        "children": [
+          {
+            "name": "Stationery",
+            "children": [
+              {
+                "name": "Writing Tools",
+                "items": [
+                  "Pens",
+                  "Pencils"
+                ]
+              },
+              {
+                "name": "Paper Products",
+                "items": [
+                  "Notebooks",
+                  "Sticky Notes"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Electronics",
+            "children": [
+              {
+                "name": "Charging",
+                "children": [
+                  {
+                    "name": "Chargers",
+                    "children": [
+                      {
+                        "name": "Phone Chargers",
+                        "items": ["Wireless charger", "Fast charger"]
+                      },
+                      {
+                        "name": "Laptop Chargers",
+                        "items": ["Universal laptop charger", "Specific brand charger"]
+                      },
+                      {
+                        "name": "Battery Chargers",
+                        "items": ["Rechargeable AA/AAA charger", "Camera battery charger"]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Cables",
+                "children": [
+                  {
+                    "name": "Charging Cables",
+                    "items": ["USB-C cable", "Lightning cable", "Micro USB cable"]
+                  },
+                  {
+                    "name": "Data Cables",
+                    "items": ["USB 3.0 cable", "Thunderbolt cable", "Ethernet cable"]
+                  },
+                  {
+                    "name": "Audio Cables",
+                    "items": ["3.5mm audio cable", "RCA cable", "Optical audio cable"]
+                  },
+                  {
+                    "name": "Video Cables",
+                    "items": ["HDMI cable", "DisplayPort cable", "VGA cable"]
+                  }
+                ]
+              },
+              {
+                "name": "Accessories",
+                "children": [
+                  {
+                    "name": "Computer Accessories",
+                    "items": ["Keyboard (mechanical, wireless)", "Mouse (optical, gaming)"]
+                  },
+                  {
+                    "name": "Mobile Accessories",
+                    "items": ["Phone cases", "Screen protectors"]
+                  },
+                  {
+                    "name": "Camera Accessories",
+                    "items": ["Tripods", "Lens filters"]
+                  }
+                ]
+              },
+              {
+                "name": "Storage Devices",
+                "children": [
+                  {
+                    "name": "External Storage",
+                    "items": ["External hard drives", "Flash drives"]
+                  },
+                  {
+                    "name": "Internal Storage",
+                    "items": ["SSDs", "HDDs"]
+                  },
+                  {
+                    "name": "Memory Cards",
+                    "items": ["SD cards", "MicroSD cards"]
+                  }
+                ]
+              },
+              {
+                "name": "Audio Equipment",
+                "children": [
+                  {
+                    "name": "Headphones",
+                    "items": ["Over-ear", "In-ear", "Noise-cancelling"]
+                  },
+                  {
+                    "name": "Speakers",
+                    "items": ["Bluetooth speakers", "Wired speakers"]
+                  },
+                  {
+                    "name": "Microphones",
+                    "items": ["USB microphones", "Condenser microphones"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Art Supplies",
+            "children": [
+              {
+                "name": "Mediums",
+                "items": [
+                  "Paints",
+                  "Brushes"
+                ]
+              },
+              {
+                "name": "Surfaces",
+                "items": [
+                  "Canvas",
+                  "Sketchbooks"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Filing",
+            "children": [
+              {
+                "name": "Documents",
+                "items": [
+                  "Folders",
+                  "Labels"
+                ]
+              },
+              {
+                "name": "Accessories",
+                "items": [
+                  "Staplers",
+                  "Paper Clips"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tool Closet",
+        "children": [
+          {
+            "name": "Hand Tools",
+            "children": [
+              {
+                "name": "General Tools",
+                "items": [
+                  "Hammers",
+                  "Screwdrivers"
+                ]
+              },
+              {
+                "name": "Specialty Tools",
+                "items": [
+                  "Pliers",
+                  "Wrenches"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Power Tools",
+            "children": [
+              {
+                "name": "Drilling and Cutting",
+                "items": [
+                  "Drills",
+                  "Saws"
+                ]
+              },
+              {
+                "name": "Finishing Tools",
+                "items": [
+                  "Sanders",
+                  "Grinders"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Fasteners",
+            "children": [
+              {
+                "name": "Common Fasteners",
+                "items": [
+                  "Screws",
+                  "Nails"
+                ]
+              },
+              {
+                "name": "Specialty Fasteners",
+                "items": [
+                  "Anchors",
+                  "Brackets"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Safety Gear",
+            "children": [
+              {
+                "name": "Personal Protection",
+                "items": [
+                  "Gloves",
+                  "Goggles"
+                ]
+              },
+              {
+                "name": "Respiratory Protection",
+                "items": [
+                  "Masks",
+                  "Ear Protection"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
