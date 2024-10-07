@@ -94,3 +94,6 @@
 [submodule "Labs/lab-sql-python-connection"]
 	path = Labs/lab-sql-python-connection
 	url = https://github.com/jipijipi/lab-sql-python-connection.git
+[submodule "Quests/vanguard-ab-test"]
+	path = Quests/vanguard-ab-test
+	url = https://github.com/jipijipi/vanguard-ab-test.git
