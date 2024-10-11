@@ -97,3 +97,6 @@
 [submodule "Quests/vanguard-ab-test"]
 	path = Quests/vanguard-ab-test
 	url = https://github.com/jipijipi/vanguard-ab-test.git
+[submodule "Labs/lab-eda-univariate"]
+	path = Labs/lab-eda-univariate
+	url = https://github.com/jipijipi/lab-eda-univariate.git
