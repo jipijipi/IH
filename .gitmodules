@@ -106,3 +106,6 @@
 [submodule "Labs/lab-intro-probability"]
 	path = Labs/lab-intro-probability
 	url = https://github.com/jipijipi/lab-intro-probability.git
+[submodule "Labs/lab-hypothesis-testing"]
+	path = Labs/lab-hypothesis-testing
+	url = https://github.com/jipijipi/lab-hypothesis-testing.git
