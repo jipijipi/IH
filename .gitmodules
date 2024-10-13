@@ -100,3 +100,9 @@
 [submodule "Labs/lab-eda-univariate"]
 	path = Labs/lab-eda-univariate
 	url = https://github.com/jipijipi/lab-eda-univariate.git
+[submodule "Labs/lab-eda-bivariate"]
+	path = Labs/lab-eda-bivariate
+	url = https://github.com/jipijipi/lab-eda-bivariate.git
+[submodule "Labs/lab-intro-probability"]
+	path = Labs/lab-intro-probability
+	url = https://github.com/jipijipi/lab-intro-probability.git
