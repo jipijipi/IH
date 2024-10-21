@@ -109,3 +109,12 @@
 [submodule "Labs/lab-hypothesis-testing"]
 	path = Labs/lab-hypothesis-testing
 	url = https://github.com/jipijipi/lab-hypothesis-testing.git
+[submodule "Labs/lab-tableau"]
+	path = Labs/lab-tableau
+	url = https://github.com/jipijipi/lab-tableau.git
+[submodule "Labs/lab-tableau-advanced"]
+	path = Labs/lab-tableau-advanced
+	url = https://github.com/data-bootcamp-v4/lab-tableau-advanced.git
+[submodule "Labs/lab-intro-to-ml"]
+	path = Labs/lab-intro-to-ml
+	url = https://github.com/jipijipi/lab-intro-to-ml.git
