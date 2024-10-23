@@ -118,3 +118,12 @@
 [submodule "Labs/lab-intro-to-ml"]
 	path = Labs/lab-intro-to-ml
 	url = https://github.com/jipijipi/lab-intro-to-ml.git
+[submodule "Labs/lab-feature-engineering"]
+	path = Labs/lab-feature-engineering
+	url = https://github.com/jipijipi/lab-feature-engineering.git
+[submodule "IH-Final-Project"]
+	path = IH-Final-Project
+	url = https://github.com/jipijipi/IH-Final-Project.git
+[submodule "Labs/lab-ensemble"]
+	path = Labs/lab-ensemble
+	url = https://github.com/jipijipi/lab-ensemble.git
