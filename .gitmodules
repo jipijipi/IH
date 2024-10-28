@@ -127,3 +127,12 @@
 [submodule "Labs/lab-ensemble"]
 	path = Labs/lab-ensemble
 	url = https://github.com/jipijipi/lab-ensemble.git
+[submodule "Labs/lab-hyperparameter-tuning"]
+	path = Labs/lab-hyperparameter-tuning
+	url = https://github.com/jipijipi/lab-hyperparameter-tuning.git
+[submodule "Quests/ironkaggle"]
+	path = Quests/ironkaggle
+	url = https://github.com/jipijipi/ironkaggle.git
+[submodule "Labs/lab-imbalanced"]
+	path = Labs/lab-imbalanced
+	url = https://github.com/jipijipi/lab-imbalanced.git
